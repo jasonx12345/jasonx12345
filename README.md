@@ -1,16 +1,23 @@
 ## Hi there 👋
 
 <!--
-**jasonx12345/jasonx12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I’m Jason 👋
 
-Here are some ideas to get you started:
+**📍 Student @ McMaster University (Hamilton, ON, Canada)**  
+**🎓 Studying:** Computer Science (B.Sc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 💡 What I like
+- Shipping real, useful tools that solve real problems in my life as a student
+
+### 🔭 Interests
+- Frontend + AI integration (Chrome/Firefox extensions, React/Next.js)
+- Exploring backend/API, infrastructure/devops, and data projects to round out skills
+- Product thinking, startups, and technical PM-style problem solving
+- Interview prep (DSA/LeetCode) and US internship opportunities
+
+### 📫 How to reach me
+- Email: **jasonxie0827@gmail.com** 
+- LinkedIn: **(https://www.linkedin.com/in/jason-c-xie/)**  
 -->
