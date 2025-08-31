@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hey, I’m Jason 👋
 
 **📍 Student @ McMaster University (Hamilton, ON, Canada)**  
