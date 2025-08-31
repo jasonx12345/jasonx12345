@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # Hey, I’m Jason 👋
 
 **📍 Student @ McMaster University (Hamilton, ON, Canada)**  
@@ -20,4 +20,3 @@
 ### 📫 How to reach me
 - Email: **jasonxie0827@gmail.com** 
 - LinkedIn: **(https://www.linkedin.com/in/jason-c-xie/)**  
--->
