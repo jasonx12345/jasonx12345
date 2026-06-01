@@ -10,7 +10,6 @@
 
 ### 🔭 Interests
 - Product thinking, startups, and technical PM-style problem solving
-- Frontend + AI integration 
 - Exploring backend/API, infrastructure/devops, and data projects
 
 
