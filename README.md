@@ -1,7 +1,7 @@
 # Hey, I’m Jason 
 
 **📍 Student @ McMaster University (Hamilton, ON, Canada)**  
-** Studying:** Computer Science (B.Asc.)
+ Studying: Computer Science (B.Asc.)
 
 ---
 
